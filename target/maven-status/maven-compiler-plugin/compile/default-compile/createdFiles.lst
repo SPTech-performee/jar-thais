@@ -1,0 +1,5 @@
+modelo\Componentes.class
+Dao\DaoDados.class
+modelo\Leituras.class
+API\ApiLooca.class
+Conexao\Conexao.class
